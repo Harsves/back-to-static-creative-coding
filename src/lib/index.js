@@ -5,6 +5,7 @@
 export { default as Button } from './atoms/Button.svelte'
 export { default as FooterButton } from './atoms/FooterButton.svelte'
 export { default as Socials } from './atoms/Socials.svelte'
+export { default as Card } from './atoms/Card.svelte'
 
 // ========== Molecules ==========
 
