@@ -1,19 +1,10 @@
-# create-svelte
+# Creative coding
 
-# INK 
-
-In deze Readme is alle informatie te vinden voor de website die wij gaan maken aan de hand van de component library. 
-
-
-
+<img width="359" alt="Schermafbeelding 2023-12-08 om 11 45 19" src="https://github.com/Harsves/back-to-static-creative-coding/assets/112931845/ed298aa4-c303-439e-ae76-3d109538ac95">
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
-
-### Desktop versie 
-
-<img width="534" alt="284287476-99ec8fcb-d9ee-4182-82fd-02c656d593c3" src="https://github.com/JalalToufik/INK-component-library/assets/94745953/d71372cc-ca2e-4788-bd35-0c087f5c1cee">
 
 
  ### WIKI 
