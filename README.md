@@ -3,17 +3,7 @@
 <img width="359" alt="Schermafbeelding 2023-12-08 om 11 45 19" src="https://github.com/Harsves/back-to-static-creative-coding/assets/112931845/ed298aa4-c303-439e-ae76-3d109538ac95">
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-
-
- ### WIKI 
-
-* [🌺 Analyseren](https://github.com/anoukbruinn/INK-component-library/wiki/%F0%9F%8C%BA-Analyseren/)
-* [🌺 Ontwerpen](https://github.com/anoukbruinn/INK-component-library/wiki/%F0%9F%8C%BA-Ontwerpen/)
-* [🌺 Intergreren](https://github.com/anoukbruinn/INK-component-library/wiki/%F0%9F%8C%BA-Intergreren/)
-* [🌺 Bouwen](https://github.com/anoukbruinn/INK-component-library/wiki/%F0%9F%8C%BA-Bouwen/)
-* [🌺 Testen](https://github.com/anoukbruinn/INK-component-library/wiki/%F0%9F%8C%BA-Testen/)
+Week 1: Crazy 90s space psychedelia card
 
 ## Kenmerken
 
