@@ -22,5 +22,6 @@ export { default as Header } from './organisms/Header.svelte'
 export { default as MainHead } from './organisms/MainHead.svelte'
 export { default as MainAbout } from './organisms/MainAbout.svelte'
 export { default as Footer } from './organisms/Footer.svelte'
+export { default as Loader } from './organisms/Loader.svelte'
 
 
